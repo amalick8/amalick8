@@ -1,88 +1,90 @@
-<!-- HERO -->
+<h1 align="center">Hey, I'm Ammar 👋</h1>
+<h3 align="center">Software Engineering Student | Intel × GRAMMYs × Startups</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E5FF&size=32&center=true&vCenter=true&width=900&lines=Ammar+Malick;Full-Stack+Engineer;AI+%7C+Backend+%7C+Systems;Building+OVERWATCH+%F0%9F%9A%80;Always+Leveling+Up+%F0%9F%8C%9F" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E5FF&size=28&center=true&vCenter=true&width=900&lines=Full-Stack+%7C+Front-End+%7C+Data+Analysis;Building+Projects+That+Actually+Ship;Leveling+Up+Every+Single+Day+🔥" />
 </p>
 
 ---
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Mode-ACTIVE-%2300E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-MacOS-black?style=for-the-badge&logo=apple" />
-  <img src="https://img.shields.io/badge/Focus-Overwatch%20Platform-%23FF8C00?style=for-the-badge" />
-</p>
+## 💡 About Me  
+I’m a **software engineering student** who focuses on **real-world, shippable work**.  
+Not tutorials, not “hello world” — *actual projects that people use.*
+
+Right now, I’m building and growing through:
+- **Front-end engineering** (React, Vite, Tailwind)
+- **Data analysis + Python pipelines**
+- **Object-oriented development**
+- **Real projects with real partners** (Intel × GRAMMYs)
+- Startup-style product building  
+- Clean, readable, scalable code
+
+I’m obsessed with **progress**, not perfection.
 
 ---
 
-## 🔥 Who I Am  
-I'm **Ammar**, a developer who builds **real systems**, not toy projects.  
-I like **backend engineering, AI pipelines, and fast frontends** — and I’m currently creating:
-
-### 🛰 **OVERWATCH — Real-Time Environment Intelligence System**
-A platform with:
-- Live occupancy tracking  
-- Multi-tenant org management  
-- Node + Express secure backend  
-- React + Tailwind front end  
-- Python OpenCV sensor stream  
-- JWT auth + API key security  
-- Real-time dashboards  
-
-> Think “Iron Man HUD but for real buildings.”
-
----
-
-## 🧠 Tech Arsenal  
+## 🛠 Tech Stack  
 ### **Languages**
-`JavaScript` · `Python` · `C++` · `TypeScript` · `SQL`
+`JavaScript` • `Python` • `C++` • `TypeScript` • `SQL`
 
 ### **Frontend**
-`React` · `Vite` · `Tailwind` · `Recharts`
+`React` • `TailwindCSS` • `Vite`
 
-### **Backend**
-`Node` · `Express` · `MongoDB` · `Supabase` · `JWT` · `REST APIs`
-
-### **Tools**
-`Git` · `VS Code` · `Postman` · `Docker (learning)` · `Railway` · `Render`
+### **Backend & Tools**
+`Node.js` • `Express` • `MongoDB`  
+`Git` • `Postman` • `Jupyter` • `VS Code`
 
 ---
 
-## ⚡ Current Missions  
-### 🟧 **OVERWATCH**
-Total overhaul of:
-- Backend security & validation  
-- Sensor authentication  
-- Live status updates  
-- Role-based org dashboards  
-- Location-level tracking  
-- Real-time environment monitoring  
+## 📌 Featured Projects (Matches Your Pinned Repos)
+### 🚗 **JDM Afterhours**  
+A Midnight Community for JDM Lovers  
+`JavaScript`
 
-### 🟦 **Crewmate Creator (CodePath)**
-Supabase + React full-stack app.
+### 🎵 **Grammy Web Data Analysis**  
+Official GRAMMY Web Analytics (Jupyter Notebook)  
+`Python / Data Science`
 
-### 🟪 **BookScope Dashboard**
-Harry Potter dataset visualized with custom charts + routing.
+### 🧠 **Word Recognition Flashcards**  
+JS Learning Tool w/ Fast Recognition Drills  
+`JavaScript`
+
+### 🧱 **DSA Practice Repo**  
+Daily Python algorithms, stacks, queues, maps  
+`Python`
+
+### 👾 **Crewmate Creator**  
+React + Supabase based mini-app  
+`JavaScript`
+
+### 🧩 **COSC1436 Coursework**  
+C++ OOP, Functions, Recursion, Projects  
+`C++`
 
 ---
 
-## 🌌 GitHub Heat  
+## 📈 Contributions  
+You’ve been on a streak — your graph shows **consistent grind**, especially the last few months.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ammarmalick&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammarmalick&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
----
-
-## 🧬 Fun Stuff  
-- I break things just to rebuild them cleaner.  
-- My GitHub is basically my training arc.  
-- If I don’t know something today, I’ll know it tomorrow.
+> The reason the green is dim in some spots is because your **31-commit spike made GitHub scale the rest down** — that’s actually a flex.
 
 ---
 
-## 📡 Connect  
+## ⚡ Fun Facts  
+- I go **hard** when I’m building — sometimes 30+ commits in a day.  
+- My GitHub is my **training arc**, not a portfolio.  
+- I learn fast, break things, fix them, and push clean code.
+
+---
+
+## 🌐 Connect  
 <p>
-  <a href="https://linkedin.com/in/ammarmalick">
+  <a href="https://www.linkedin.com/in/ammarmalick" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%2300A0DC?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
