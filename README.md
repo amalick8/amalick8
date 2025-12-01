@@ -1,80 +1,96 @@
-<!-- HEADER -->
-<h1 align="center">Hey, I'm Ammar 👋</h1>
-<h3 align="center">
-  Software Engineering Student • Intel × GRAMMYs • Front-End Dev & Data Engineering
-</h3>
+<h1 align="center">Hi there, I'm Ammar Malick 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E5FF&size=27&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Data+Analysis+%26+Python+Engineering;Intel+%C3%97+GRAMMYs+Project+Experience;Always+Building+Something+New+%F0%9F%92%BB" />
+  <b>Software Engineering Student • Intel × GRAMMYs • Front-End Dev & Data Engineering</b><br/>
+  Passionate about building clean, scalable products with JavaScript, Python, and modern web tools.
 </p>
 
 ---
 
-## 💡 About Me  
-I'm a **software engineering student** who focuses on *building real, production-quality projects*, not just assignments or tutorials.
+### 📍 Based in Dallas, Texas  
+### 🎯 Passionate about:
+- Front-end engineering (React/Tailwind)
+- Data analysis & Python pipelines
+- OOP & clean software architecture
+- Turning ideas into real products
 
-I've gained experience working with:
-- **Intel** (Python, automation, engineering workflows)  
-- **The GRAMMYs / Recording Academy** (data analytics + web insights project)  
-- **Startups & personal products** (React, Node, full-stack apps)
-
-My strongest areas are:
-- **Frontend engineering** (React, Tailwind, Vite)  
-- **Data analytics** (Python, Pandas, Jupyter)  
-- **Object-oriented development** (C++, Python)  
-- **Full-stack development** (Node.js, Express, MongoDB)  
-
-I'm constantly improving — shipping new features, learning new tools, and pushing commits almost every day.
+I love working on both front-end and back-end technologies, exploring new tools, and constantly leveling up through real projects.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Technologies & Tools
 
-### **Languages**
-`JavaScript` • `TypeScript` • `Python` • `C++` • `SQL`
+<div align="center">
 
-### **Frontend**
-`React` • `Vite` • `TailwindCSS` • `Recharts`
+<!-- Languages -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-### **Backend / Tools**
-`Node.js` • `Express` • `MongoDB` • `Postman` • `Jupyter` • `Git` • `VS Code`
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 
----
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-## 🔥 Featured Projects  
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-### 🚗 **JDM Afterhours – Midnight Car Community**  
-A platform for JDM lovers built with clean JS and component-based UI.
-
-### 🎵 **GRAMMY Web Data Analysis (Recording Academy)**  
-Analyzed GRAMMY web engagement and patterns using Python + Jupyter.  
-Built automated pipelines and visualizations.
-
-### 👾 **Crewmate Creator (React + Supabase)**  
-A full-stack mini-app for creating and managing crewmate teams.
-
-### 🧠 **Word Recognition Flashcards**  
-A fast JS-based learning tool built for recognition-speed training.
-
-### 🧱 **Data Structures & Algorithms Practice**  
-Daily Python problems, clean code patterns, and algorithm mastery.
-
-### 🧩 **COSC1436 C++ Repo**  
-OOP, functions, classes, recursion, and C++ fundamentals.
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+## 🌟 Experience Highlights
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ammarmalick&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammarmalick&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 💼 **Intel – Python & Engineering Workflows**
+Worked on automation, scripting, and analysis tasks to support engineering pipelines.
+
+### 🎵 **GRAMMYs / Recording Academy – Data Analytics**
+Analyzed GRAMMY web traffic & engagement using Python, Jupyter, and data visualization.
+
+### 🚀 **Startups & Personal Projects**
+Built full-stack applications, React tools, and data-driven dashboards.
 
 ---
 
-## 🌐 Connect with Me  
-<p align="center">
+## 📂 Projects I'm Proud Of
+
+### 🚗 **JDM Afterhours**
+A Midnight Community for JDM car lovers.  
+*JavaScript / Front-End*
+
+### 🎵 **GRAMMY Web Data Analysis**
+Official data analytics project done for the GRAMMYs.  
+*Jupyter / Python*
+
+### 👾 **Crewmate Creator**
+React + Supabase mini-app for creating teams.  
+*Full-Stack*
+
+### 🧠 **Word Recognition Flashcards**
+JS learning tool for fast recognition drills.  
+*JavaScript / UI*
+
+### 🧱 **DSA Practice Repo**
+Daily Python problems & data structures.  
+*Python*
+
+### 🧩 **COSC1436 Coursework**
+C++ OOP and fundamentals.  
+*C++*
+
+---
+
+## 🤝 Let's Connect!
+
+<p>
   <a href="https://www.linkedin.com/in/ammar-malick-1023b9278" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -82,7 +98,6 @@ OOP, functions, classes, recursion, and C++ fundamentals.
 
 ---
 
-## ⚡ Fun Facts  
-- I commit in waves — sometimes 30+ commits in a single grind session.  
-- I treat GitHub as my **training arc**, not just a portfolio.  
-- If I’m curious about something, I will break it, rebuild it, and master it.  
+## 🎉 Fun Fact  
+I commit in intense bursts — sometimes 20–30 commits in one grind session — and break/rebuild things until they’re perfect.
+
