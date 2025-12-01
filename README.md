@@ -5,18 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300E5FF&size=24&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+•+Intel+×+GRAMMYs;Front-End+Dev+%7C+Data+Engineering;Building+Clean+%26+Scalable+Products;JavaScript+•+Python+•+Modern+Web+Tools" />
 </p>
 
----
-
-### 🎯 Passionate about:
-- Front-end engineering (React/Tailwind)
-- Data analysis & Python pipelines
-- OOP & clean software architecture
-- Turning ideas into real products
-
-I love working on both front-end and back-end technologies, exploring new tools, and constantly leveling up through real projects.
-
----
-
 ## 🛠 Technologies & Tools
 
 <div align="center">
@@ -44,8 +32,6 @@ I love working on both front-end and back-end technologies, exploring new tools,
 
 </div>
 
----
-
 ## 🌟 Experience Highlights
 
 ### 💼 **Intel – Python & Engineering Workflows**
@@ -56,8 +42,6 @@ Analyzed GRAMMY web traffic & engagement using Python, Jupyter, and data visuali
 
 ### 🚀 **Startups & Personal Projects**
 Built full-stack applications, React tools, and data-driven dashboards.
-
----
 
 ## 📂 Projects I'm Proud Of
 
@@ -84,8 +68,6 @@ Daily Python problems & data structures.
 ### 🧩 **COSC1436 Coursework**
 C++ OOP and fundamentals.  
 *C++*
-
----
 
 ## 🤝 Let's Connect!
 
