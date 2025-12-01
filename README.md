@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Ammar Malick 👋</h1>
+<h1 align="center">Hi there, I'm Ammar</h1>
 
+<!-- MOVING TEXT -->
 <p align="center">
-  <b>Software Engineering Student • Intel × GRAMMYs • Front-End Dev & Data Engineering</b><br/>
-  Passionate about building clean, scalable products with JavaScript, Python, and modern web tools.
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E5FF&size=24&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+•+Intel+×+GRAMMYs;Front-End+Dev+%7C+Data+Engineering;Building+Clean+%26+Scalable+Products;JavaScript+•+Python+•+Modern+Web+Tools" />
 </p>
 
 ---
