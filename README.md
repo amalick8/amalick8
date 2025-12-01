@@ -7,7 +7,6 @@
 
 ---
 
-### 📍 Based in Dallas, Texas  
 ### 🎯 Passionate about:
 - Front-end engineering (React/Tailwind)
 - Data analysis & Python pipelines
