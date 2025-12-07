@@ -32,43 +32,6 @@
 
 </div>
 
-## 🌟 Experience Highlights
-
-### 💼 **Intel – Python & Engineering Workflows**
-Worked on automation, scripting, and analysis tasks to support engineering pipelines.
-
-### 🎵 **GRAMMYs / Recording Academy – Data Analytics**
-Analyzed GRAMMY web traffic & engagement using Python, Jupyter, and data visualization.
-
-### 🚀 **Startups & Personal Projects**
-Built full-stack applications, React tools, and data-driven dashboards.
-
-## 📂 Projects I'm Proud Of
-
-### 🚗 **JDM Afterhours**
-A Midnight Community for JDM car lovers.  
-*JavaScript / Front-End*
-
-### 🎵 **GRAMMY Web Data Analysis**
-Official data analytics project done for the GRAMMYs.  
-*Jupyter / Python*
-
-### 👾 **Crewmate Creator**
-React + Supabase mini-app for creating teams.  
-*Full-Stack*
-
-### 🧠 **Word Recognition Flashcards**
-JS learning tool for fast recognition drills.  
-*JavaScript / UI*
-
-### 🧱 **DSA Practice Repo**
-Daily Python problems & data structures.  
-*Python*
-
-### 🧩 **COSC1436 Coursework**
-C++ OOP and fundamentals.  
-*C++*
-
 ## 🤝 Let's Connect!
 
 <p>
@@ -76,9 +39,3 @@ C++ OOP and fundamentals.
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
----
-
-## 🎉 Fun Fact  
-I commit in intense bursts — sometimes 20–30 commits in one grind session — and break/rebuild things until they’re perfect.
-
