@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300E5FF&size=24&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+•+Intel+×+GRAMMYs;Front-End+Dev+%7C+Data+Engineering;Building+Clean+%26+Scalable+Products;JavaScript+•+Python+•+Modern+Web+Tools" />
 </p>
 
-##Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -31,8 +31,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 </div>
-
-##Let's Connect!
+## Let's Connect!
 
 <p>
   <a href="https://www.linkedin.com/in/ammar-malick-1023b9278" target="_blank">
