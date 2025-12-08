@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 </div>
+
 ## Let's Connect!
 
 <p>
