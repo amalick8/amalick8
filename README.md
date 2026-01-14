@@ -2,7 +2,7 @@
 
 <!-- MOVING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E5FF&size=24&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+•+Intel+×+GRAMMYs;Full-stack+Dev+%7C+Data+Engineering;Building+Clean+%26+Scalable+Products;JavaScript+•+Python+•+Modern+Web+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E5FF&size=24&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+•+Intel+×+GRAMMYs;Full-Stack+Developer+%7C+Client+Solutions+%7C+Data+Engineering;Building+Scalable+%26+Client-Driven+Products;JavaScript+•+Python+•+Modern+Web+%26+Data+Stacks" />
 </p>
 
 ## Technologies & Tools
