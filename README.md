@@ -1,40 +1,44 @@
-<h1 align="center">Hi there, I'm Ammar</h1>
+<h1 align="center">Hi, I’m Ammar 👋</h1>
 
-<!-- MOVING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E5FF&size=24&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+•+Intel+×+GRAMMYs;Full-Stack+Developer+%7C+Client+Solutions+%7C+Data+Engineering;Building+Scalable+%26+Client-Driven+Products;JavaScript+•+Python+•+Modern+Web+%26+Data+Stacks" />
+  Second-year Software Engineering student <br/>
+  Focused on learning full-stack web development and building strong fundamentals
 </p>
 
-## Technologies & Tools
+---
 
-<div align="center">
+### 👨‍🎓 About Me
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+I’m a sophomore student studying Software Engineering and actively working on improving my skills in web development.
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+Right now, my focus is on:
+- Strengthening core programming fundamentals  
+- Learning how modern web applications are built  
+- Becoming more confident with frontend and backend concepts  
+- Writing cleaner, more understandable code  
 
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+I’m especially interested in structured learning environments, mentorship, and hands-on projects that help bridge the gap between classroom knowledge and real-world development.
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+---
 
-</div>
+### 🌱 What I’m Currently Working On
 
-## Let's Connect!
+- Practicing basic programming concepts (functions, loops, conditionals)
+- Learning HTML & CSS fundamentals
+- Exploring how full-stack applications work end-to-end
+- Improving problem-solving and debugging skills
 
-<p>
-  <a href="https://www.linkedin.com/in/ammar-malick-1023b9278" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+---
+
+### 🎯 Goals
+
+- Grow into a confident full-stack developer
+- Learn best practices used in real engineering teams
+- Collaborate with peers and learn from experienced mentors
+- Prepare for future software engineering internships
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ammar-malick-1023b9278
