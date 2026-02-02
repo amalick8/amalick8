@@ -1,44 +1,30 @@
 <h1 align="center">Hi, I’m Ammar 👋</h1>
 
 <p align="center">
-  Second-year Software Engineering student <br/>
-  Focused on learning full-stack web development and building strong fundamentals
+  Second-year Software Engineering student
 </p>
 
 ---
 
 ### 👨‍🎓 About Me
 
-I’m a sophomore student studying Software Engineering and actively working on improving my skills in web development.
+I’m a sophomore studying Software Engineering.
 
-Right now, my focus is on:
-- Strengthening core programming fundamentals  
-- Learning how modern web applications are built  
-- Becoming more confident with frontend and backend concepts  
-- Writing cleaner, more understandable code  
-
-I’m especially interested in structured learning environments, mentorship, and hands-on projects that help bridge the gap between classroom knowledge and real-world development.
-
----
-
-### 🌱 What I’m Currently Working On
-
-- Practicing basic programming concepts (functions, loops, conditionals)
-- Learning HTML & CSS fundamentals
-- Exploring how full-stack applications work end-to-end
-- Improving problem-solving and debugging skills
+I’m interested in learning more about how software is built and gaining experience through coursework, projects, and collaborative environments.
 
 ---
 
 ### 🎯 Goals
 
-- Grow into a confident full-stack developer
-- Learn best practices used in real engineering teams
-- Collaborate with peers and learn from experienced mentors
-- Prepare for future software engineering internships
+- Continue developing my technical skills  
+- Learn from structured programs and mentorship  
+- Gain hands-on experience building software  
+- Prepare for future opportunities in software engineering  
 
 ---
 
 ### 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ammar-malick-1023b9278
+<a href="https://www.linkedin.com/in/ammar-malick-1023b9278" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
