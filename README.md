@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-Building strong fundamentals in software engineering, full-stack development, and applied computer science.
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=amalick8&style=flat-square&color=blue" />
 </p>
 
