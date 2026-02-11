@@ -7,8 +7,6 @@
 ## 👨‍💻 About Me
 Sophomore studying Software Engineering with a **growth mindset**, strong work ethic, and interest in **full-stack development**. Focused on learning deeply, writing clean code, and building real-world projects while seeking mentorship and continuous improvement.
 
-## 🧠 Tech Stack
-
 ### 🐍 Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
