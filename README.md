@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2800&pause=800&color=38B2AC&center=true&vCenter=true&width=520&lines=Second-Year+Software+Engineering+Student;Building+Strong+CS+Fundamentals;Interested+in+Full-Stack+Development" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=amalick8&style=flat-square&color=blue" />
-</p>
-
 ## 👨‍💻 About Me
 Sophomore studying Software Engineering with a **growth mindset**, strong work ethic, and interest in **full-stack development**. Focused on learning deeply, writing clean code, and building real-world projects while seeking mentorship and continuous improvement.
 
