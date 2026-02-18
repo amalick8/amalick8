@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Ammar 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2800&pause=800&color=38B2AC&center=true&vCenter=true&width=520&lines=Second-Year+Software+Engineering+Student;Building+Strong+CS+Fundamentals;Interested+in+Full-Stack+Development" />
 </p>
